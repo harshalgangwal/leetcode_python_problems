@@ -63,7 +63,7 @@ If you find this repository useful, please ⭐ **star** this repo and follow me 
 ## 📩 Contact
 For any queries or discussions, reach out to me via:
 - GitHub: [@harshalgangwal](https://github.com/harshalgangwal)
-- LinkedIn: [Harshal Gangwal](https://www.linkedin.com/in/harshalgangwal)
+- LinkedIn: [Harshal Gangwal](https://www.linkedin.com/in/harshal-gangwal-03b446234/)
 
 ---
 
